@@ -1,0 +1,4 @@
+By default, the Usages hints are enabled.
+To disable them, clear the Usages checkbox in Settings "Editor" "Inlay Hints" "Code Vision".
+Alternatively, in the editor, hover over a hint and select Hide 'Code Vision: Usages' Inlay Hints or Hide All 'Code Vision'
+Inlay Hints from the context menu.
